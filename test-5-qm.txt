@@ -1,0 +1,14 @@
+M
+2
+4
+//sample using elevator
+//level 0
+...H
+EE##
+EE..
+.EE.
+//level 1
+....
+EE..
+EE..
+SEE.

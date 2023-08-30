@@ -1,0 +1,9 @@
+Start in level 0, row 0, column 1
+//level 0
+Es.
+.1.
+.E.
+//level 1
+H#.
+nw.
+...
